@@ -1,2 +1,2 @@
-["pyproject.toml".isort]
+["pyproject.toml".tool.isort]
 profile = 'black'
