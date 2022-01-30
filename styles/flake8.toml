@@ -1,3 +1,4 @@
+[nitpick.meta]
 name = "Flake8"
 url = "https://github.com/PyCQA/flake8"
 

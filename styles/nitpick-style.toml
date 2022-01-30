@@ -8,5 +8,4 @@ include = [
   "flake8.toml",
   "isort.toml",
   "pylint.toml",
-  
 ]
