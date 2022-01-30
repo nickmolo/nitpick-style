@@ -1,6 +1,2 @@
-[nitpick.meta]
-name = "isort"
-url = "https://github.com/PyCQA/isort"
-
 ["pyproject.toml".isort]
 profile = 'black'

@@ -1,7 +1,3 @@
-[nitpick.meta]
-name = "Pylint"
-url = "https://github.com/PyCQA/pylint"
-
 ["pyproject.toml".tool.poetry.dependencies]
 pylint = {version = "*", optional = true}
 
