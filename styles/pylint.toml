@@ -8,6 +8,7 @@ lint = ["pylint"]
 [".pylintrc".MASTER]
 jobs = 1
 extension-pkg-whitelist = "pydantic"
+disable="consider-using-f-string, logging-format-interpolation, logging-fstring-interpolation"
 
 [".pylintrc".REPORTS]
 output-format = "colorized"
