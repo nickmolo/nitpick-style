@@ -12,6 +12,7 @@ disable="consider-using-f-string, logging-format-interpolation, logging-fstring-
 
 [".pylintrc".REPORTS]
 output-format = "colorized"
+score="no"
 
 [".pylintrc"."MESSAGES CONTROL"]
 disable = "bad-continuation,bad-whitespace,fixme,cyclic-import,line-too-long"
